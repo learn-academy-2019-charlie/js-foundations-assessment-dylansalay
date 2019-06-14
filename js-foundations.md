@@ -75,4 +75,4 @@ JavaScript Object Notation. JSON converts JavaScript objects into texts so that 
 
 3. Describe a closure, what is it good for and how do you recognize one?
 
-A closure is used to give an inner function to access an outer functions scope. 
+A closure is used to give an inner function access to an outer function's scope. 
